@@ -4,9 +4,9 @@ This is a simple React-based Todo application that allows users to add, edit, de
 
 ## Preview
 
-[![Landing Page Preview](https://github.com/gokulselvam2911/React-todo-task/blob/main/Screenshot%202024-10-03%20015503.png)]()
+[![Landing Page Preview](https://github.com/gokulselvam2911/React-todo-task/blob/main/Screenshot%202024-10-03%20015503.png)](https://gkl-task-to-do.netlify.app/)
 
-**[View Live Preview]()**
+**[View Live Preview](https://gkl-task-to-do.netlify.app/)**
 
 ## Table of Contents
 - [Features](#features)
@@ -39,7 +39,7 @@ The application is deployed on Netlify. You can view the live version of the app
 ## Links
 - **Reference**: [React-Todo-Task](https://docs.google.com/document/d/1frCM6keoI6YKQqxm0XbgEP2CCZjDH5Zi8wEp_NXtk2g/edit)
 - **GitHub Repository**: [React-todo-task](https://github.com/gokulselvam2911/React-todo-task.git)
-- **Netlify Deployment**: [View on Netlify]()
+- **Netlify Deployment**: [View on Netlify](https://gkl-task-to-do.netlify.app/)
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or fixes.
