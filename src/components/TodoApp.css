@@ -1,0 +1,12 @@
+.sticky-header {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background-color: #dcf5d7;
+    padding: 10px 0;
+    box-shadow: 0 4px 2px -2px gray;
+}
+
+.card {
+    background: -webkit-linear-gradient(90deg, #dcf5d7 10%, #fbfbfa 90%);
+}

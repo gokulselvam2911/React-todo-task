@@ -1,0 +1,20 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+#root {
+    height: 100%;
+    width: 100%;
+}
+
+.app-container {
+    width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 20px;
+    background-color: #dcf5d7;
+}
